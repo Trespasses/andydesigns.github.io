@@ -1,0 +1,21 @@
+#footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 150px 0;
+  background: white;
+  color: #2d2d2d;
+
+  ul {
+    display: inline-block;
+    margin: 0 5vw;
+    list-style: none;
+
+    li {
+      &:first-child {
+        font-size: 20pt;
+      }
+    }
+  }
+}
