@@ -1,0 +1,147 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andyartworks.github.io" resolutions="1x" timestamp="1517173706914">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="332464587" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u521.php" crc="120801436" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="andy designs.jpg" crc="313678090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="amazing-701689_1280.jpg" crc="185100718" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="amazing-701689_12802.jpg" crc="4288051962" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maple-tree-701690_1280.jpg" crc="83521190" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maple-tree-701690_12802.jpg" crc="267434305" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ar2.png" crc="54280652" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ar.png" crc="396165195" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="badge.png" crc="3994969622" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-01-25 at 80338 pm.png" crc="347390586" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02.png" crc="117963869" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-01-25 at 80341 pm.png" crc="506966052" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-01-25 at 75853 pm.png" crc="4279408837" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="04.png" crc="3813778198" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-01-25 at 80335 pm.png" crc="4153169642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="amazing-701679_1280.jpg" crc="99989210" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sunrise-73074_640230x153.jpg" crc="441171787" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gobi-692640_640230x154.jpg" crc="180571634" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pier-674722_640230x154.jpg" crc="4099023002" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sky-690293_640249x140.jpg" crc="148313207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sunset-675847_640230x154.jpg" crc="4184427098" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tulip-690320_640230x153.jpg" crc="4292874239" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="landscape-411712_640230x147.jpg" crc="332890782" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pine-273826_640230x154.jpg" crc="4149482106" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sunrise-73074_640.jpg" crc="4038601162" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gobi-692640_640.jpg" crc="4143973373" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pier-674722_640.jpg" crc="297570731" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sky-690293_640.jpg" crc="61486768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sunset-675847_640.jpg" crc="111212257" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tulip-690320_640.jpg" crc="95684739" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="landscape-411712_640.jpg" crc="290144159" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pine-273826_640.jpg" crc="3867201506" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="4102706121" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest.png" crc="4214682508" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.png" crc="317936629" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube.png" crc="442611654" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram.png" crc="260457741" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="heart.png" crc="117585526" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="248085714" seo="true" mt="1517173681765" redirect="true"/>
+</manifest>
